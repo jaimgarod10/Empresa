@@ -1,0 +1,1 @@
+data class Garaje( var aparcamientos: Aparcamientos, var coches: Coches)
